@@ -2,6 +2,8 @@
 Colaboratory上で[SAM2](https://github.com/facebookresearch/segment-anything-2)をお試しするサンプルです。<bR>
 静止画入力と連番画像入力を試しています。<br>
 
+![image](https://github.com/user-attachments/assets/32d5b837-7214-42a7-8f41-62cba79ce4f8)
+
 # Usage
 Colaboratoryでノートブックを開き、上から順に実行してください。<br>
 pipインストール後にランタイムの再起動が必要です。<br>
